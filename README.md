@@ -5,6 +5,8 @@ This Python program simulates a chatbot that can assist a receptionist in answer
 Python 3.x
 Usage
 To run the program, open a terminal and navigate to the directory where the program is located. Then enter the following command:
+python chatbot.py
+
 
 ## Copy code
 python chatbot.py
